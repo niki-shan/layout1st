@@ -6,7 +6,7 @@ const cl=console.log
 // })
 
 
-$('.owl-carousel').owlCarousel({
+$('.tmslider').owlCarousel({
     loop:true,
     margin:10,
     nav:true,
